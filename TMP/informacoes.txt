@@ -1,0 +1,4 @@
+======================== Informações ===============================
+    Diretorio de arquivos temporarios das classes do php, ou seja, com
+o tempo os arquivos já são eliminados, para a diminuição de espaço, sendo
+este o local padrão onde dados são carregados, para processamento.
